@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @boltneva17
-- 👀 I’m interested in java and football
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Здравствуйте!
 
-<!---
-boltneva17/boltneva17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Обо мне:
+- имя: Алина Болтнева
+- студент ВШЭ(ВШБ, Бизнес-информатика, 2023-2027)
+- интересуюсь программированием на Java и Python, а также математикой
+
+Этот профиль использую для выаполнения заданий для университета, в будущем буду добавлять собственные проекты)
